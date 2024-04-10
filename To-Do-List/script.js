@@ -96,3 +96,4 @@ deleteAllButton.addEventListener("click", () => {
   localStorage.setItem("todos", JSON.stringify(todosJson));
   showTodos();
 });
+ 
