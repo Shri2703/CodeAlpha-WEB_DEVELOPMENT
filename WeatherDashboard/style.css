@@ -111,6 +111,14 @@ h1{
     display: flex;
     gap: 20px;
 }
+.weather-cards .card{
+    color: #fff;
+    padding: 18px 16px;
+    list-style: none;
+    width: calc(100% /5);
+    background: #363636;
+    border-radius: 5px;
+}
 .weather-cards .card h3{
     font-size: 1.3rem;
     font-weight: 600;
